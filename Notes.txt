@@ -1,1 +1,3 @@
 Learning git on another branch
+
+Class is almost over
